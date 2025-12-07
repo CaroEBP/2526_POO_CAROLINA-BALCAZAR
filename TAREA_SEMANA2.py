@@ -1,3 +1,7 @@
+# TAREA SEMANA 2
+#ESTUDIANTE Carolina Elizabeth Balcazar Pardo
+#asignatura_ Programaion Orientada a OBJETOS 
+
 from abc import ABC, abstractmethod
 
 # Abstracción: clase base con métodos obligatorios
