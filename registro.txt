@@ -1,0 +1,12 @@
+Estudiante creado: Ana Pérez, Carrera: Ingeniería en Sistemas
+Estudiante eliminado: Ana Pérez
+Estudiante creado: Luis Gómez, Carrera: Matemáticas Aplicadas
+Estudiante eliminado: Luis Gómez
+Estudiante creado: Ana Pérez, Carrera: Ingeniería en Sistemas
+Estudiante eliminado: Ana Pérez
+Estudiante creado: Luis Gómez, Carrera: Matemáticas Aplicadas
+Estudiante eliminado: Luis Gómez
+Estudiante creado: Ana Pérez, Carrera: Ingeniería en Sistemas
+Estudiante eliminado: Ana Pérez
+Estudiante creado: Luis Gómez, Carrera: Matemáticas Aplicadas
+Estudiante eliminado: Luis Gómez
