@@ -1,1 +1,4 @@
 4,blusa basica,25,7.5
+5,medias hombre,30,2.5
+1,medias mujer,35,2.5
+2,bermuda,30,10.0
